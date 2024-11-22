@@ -57,7 +57,7 @@ export interface Project {
       tech: "WordPress, Elementor",
       image: wpPortfolio,
       codeLink: "",
-      demoLink: ""
+      demoLink: "https://github.com/AdnanRahmanpoor/adnan-rahmanpoor-portfolio-nextjs/blob/main/assets/wpPort.png"
     },
     {
       title: "Corporate Site in WordPress",
@@ -65,7 +65,7 @@ export interface Project {
       tech: "WordPress, Elementor",
       image: wpCorporate,
       codeLink: '',
-      demoLink: ''
+      demoLink: 'https://github.com/AdnanRahmanpoor/adnan-rahmanpoor-portfolio-nextjs/blob/main/assets/wpCorporate.png'
     },
     {
         title: "Landing Page in Bootstrap 5",
