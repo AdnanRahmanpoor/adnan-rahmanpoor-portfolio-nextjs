@@ -139,10 +139,9 @@ export default function Component() {
                   <GlitchText>Adnan Rahmanpoor</GlitchText>
                 </h1>
                 <p className="mx-auto max-w-[700px] text-white md:text-xl">
-                  Web Developer & Designer. I create beautiful, functional, and accessible websites.
+                  Web Developer & Web Designer. I create beautiful, functional, and accessible websites.
                   <br />
-                  Actively Learning About Web Development (Next.js, Wordpress and PHP) 
-                  <br /> & Mobile Development (Flutter)
+                  Next.js, Wordpress, Webflow
                 </p>
               </motion.div>
               <motion.div

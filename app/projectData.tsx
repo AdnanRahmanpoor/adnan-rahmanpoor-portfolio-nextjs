@@ -8,6 +8,7 @@ import wpCorporate from '../assets/wpCorporate.png'
 import CRE from '../assets/CRE-BT5.png'
 import crmsystem from '../assets/crmsystem.png'
 import daysTracker from '../assets/daysTracker.jpg'
+import socialMediaSaas from '../assets/SocialMediaSaas.png'
 
 export interface Project {
     title: string;
@@ -42,6 +43,14 @@ export interface Project {
       image: alHilalSite,
       codeLink: "https://github.com/yourusername/project3",
       demoLink: ""
+    },
+    {
+      title: "Social Media SaaS",
+      description: "A Landing page made in Webflow for a Social Media SaaS",
+      tech: "Webflow",
+      image: socialMediaSaas,
+      codeLink: '',
+      demoLink: 'https://socialmediasaas.webflow.io/'
     },
     {
       title: "WordPress Porfolio Site",
@@ -90,5 +99,5 @@ export interface Project {
         image: daysTracker,
         codeLink: 'https://github.com/AdnanRahmanpoor/DaysTracker',
         demoLink: 'https://github.com/AdnanRahmanpoor/DaysTracker/releases/tag/v1.1.0'
-      }
+      },
   ];
