@@ -8,7 +8,7 @@ import wpCorporate from '../assets/wpCorporate.png'
 import CRE from '../assets/CRE-BT5.png'
 import crmsystem from '../assets/crmsystem.png'
 import daysTracker from '../assets/daysTracker.jpg'
-import socialMediaSaas from '../assets/SocialMediaSaas.png'
+import socialMediaSaas from '../assets/SocialMediaSaaS.png'
 
 export interface Project {
     title: string;
