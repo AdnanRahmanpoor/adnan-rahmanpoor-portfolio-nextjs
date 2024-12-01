@@ -141,7 +141,7 @@ export default function Component() {
                 <p className="mx-auto max-w-[700px] text-white md:text-xl">
                   Web Developer & Web Designer. I create beautiful, functional, and accessible websites.
                   <br />
-                  <span className="bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 inline-block text-transparent bg-clip-text">Next.js, Wordpress, Webflow</span>
+                  <span className="bg-gradient-to-r from-blue-600 via-green-500 to-indigo-400 inline-block text-transparent bg-clip-text font-black">Next.js, Wordpress, Webflow</span>
                 </p>
               </motion.div>
               <motion.div
